@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_CB0_54LKEemMTeS5NApSFg" name="Blank Package">
+  <eAnnotations xmi:id="_CB0_6ILKEemMTeS5NApSFg" source="uml2.diagrams" references="_CB0_6YLKEemMTeS5NApSFg">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_CB0_6YLKEemMTeS5NApSFg" type="Usecase" name="Main">
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_Vhjx4ILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Vhjx4oLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Vhjx44LOEemMTeS5NApSFg" width="530" height="530"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx5ILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx5YLOEemMTeS5NApSFg" type="Kind"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx5oLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx54LOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_Vhjx6ILOEemMTeS5NApSFg" visible="false" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_Vhjx6YLOEemMTeS5NApSFg" visible="false" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_Vhjx6oLOEemMTeS5NApSFg" visible="false" type="SignalCompartment"/>
+        <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Interface"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vhjx4YLOEemMTeS5NApSFg" x="34716" y="3168"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_Vhjx64LOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Vhjx7YLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_Vhjx7oLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx74LOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx8ILOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vhjx8YLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Vhjx8oLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Vhjx84LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_Vhjx9ILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=PackMoveAndGoDaoImpl%5Bjcu%5Ename=PackMoveAndGoDaoImpl.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vhjx7ILOEemMTeS5NApSFg" x="34452"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8e0MILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8e0MoLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8e0M4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8e0NILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8e0NYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8e0NoLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8e0N4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8e0OILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8e0OYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CustomerRegister%5Bjcu%5Ename=CustomerRegister.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8e0MYLOEemMTeS5NApSFg" x="37884" y="14784"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8e0OoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8e0PILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8e0PYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8e0PoLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8e0P4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8e0QILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8e0QYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8e0QoLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8e0Q4LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Login%5Bjcu%5Ename=Login.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8e0O4LOEemMTeS5NApSFg" x="38676" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-IILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-IoLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-I4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-JILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-JYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-JoLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-J4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-KILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-KYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Branch%5Bjcu%5Ename=Branch.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-IYLOEemMTeS5NApSFg" x="43824" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-KoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-LILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-LYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-LoLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-L4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-MILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-MYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-MoLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-M4LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Services%5Bjcu%5Ename=Services.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-K4LOEemMTeS5NApSFg" x="18612" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-NILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-NoLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-N4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-OILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-OYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-OoLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-O4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-PILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-PYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Shipment%5Bjcu%5Ename=Shipment.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-NYLOEemMTeS5NApSFg" x="6204" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-PoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-QILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-QYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-QoLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-Q4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-RILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-RYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-RoLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-R4LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Order%5Bjcu%5Ename=Order.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-P4LOEemMTeS5NApSFg" x="41976" y="11616"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-SILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-SoLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-S4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-TILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-TYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-ToLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-T4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-UILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-UYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Enquiry%5Bjcu%5Ename=Enquiry.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-SYLOEemMTeS5NApSFg" x="50028" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-UoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-VILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-VYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-VoLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-V4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-WILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-WYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-WoLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-W4LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=MaterialUsed%5Bjcu%5Ename=MaterialUsed.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-U4LOEemMTeS5NApSFg" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-XILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-XoLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-X4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-YILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-YYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-YoLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-Y4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-ZILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-ZYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Item%5Bjcu%5Ename=Item.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-XYLOEemMTeS5NApSFg" x="56232" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-ZoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-aILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-aYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-aoLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-a4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-bILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-bYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-boLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-b4LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=BusinessPartner%5Bjcu%5Ename=BusinessPartner.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-Z4LOEemMTeS5NApSFg" x="65076" y="11616"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-cILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-coLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-c4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-dILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-dYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-doLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-d4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-eILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-eYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Rate%5Bjcu%5Ename=Rate.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-cYLOEemMTeS5NApSFg" x="32472" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-eoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-fILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-fYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-foLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-f4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-gILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-gYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-goLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-g4LOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-e4LOEemMTeS5NApSFg" x="42900" y="17952"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-hILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-hoLOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-h4LOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-iILOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-iYLOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-ioLOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-i4LOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-jILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-jYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=SendEnquiry%5Bjcu%5Ename=SendEnquiry.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-hYLOEemMTeS5NApSFg" x="62568" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_e8n-joLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_e8n-kILOEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_e8n-kYLOEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-koLOEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-k4LOEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_e8n-lILOEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8n-lYLOEemMTeS5NApSFg" visible="false" type="ANNOTATION_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8xvIILOEemMTeS5NApSFg" visible="false" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+        <children xmi:type="notation:ListCompartment" xmi:id="_e8xvIYLOEemMTeS5NApSFg" visible="false" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+        <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=PackingMaterials%5Bjcu%5Ename=PackingMaterials.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D$uml.Class"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e8n-j4LOEemMTeS5NApSFg" x="12408" y="8448"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_W-WDgILPEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_W-WDgoLPEemMTeS5NApSFg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_W-WDg4LPEemMTeS5NApSFg" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_W-fNcILPEemMTeS5NApSFg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_W-fNcYLPEemMTeS5NApSFg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_W-fNcoLPEemMTeS5NApSFg" type="Parent"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_W-fNc4LPEemMTeS5NApSFg" type="PackageContents" collapsed="true" canonical="false"/>
+        <element xmi:type="uml:Package" href="mmi:///#jpack%5Ename=com.packmoveandgo.request.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D$uml.Package"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_W-WDgYLPEemMTeS5NApSFg" x="22968" y="1056"/>
+      </children>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Vkr-YILOEemMTeS5NApSFg" source="_Vhjx64LOEemMTeS5NApSFg" target="_Vhjx4ILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_Vkr-YoLOEemMTeS5NApSFg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vkr-ZILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_Vkr-ZYLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Vkr-Y4LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=PackMoveAndGoDaoImpl%5Bjcu%5Ename=PackMoveAndGoDaoImpl.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Vkr-YYLOEemMTeS5NApSFg" points="[39, 95, 39, -2221]$[39, 2316, 39, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VwwrgILOEemMTeS5NApSFg" id="(0.5001436364116653,0.9003795066413661)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VwwrgYLOEemMTeS5NApSFg" id="(0.5000438583109592,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3ZsILOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-PoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3ZsoLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZtILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZtoLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZtYLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Zs4LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Order%5Bjcu%5Ename=Order.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3ZsYLOEemMTeS5NApSFg" points="[48, 95, -6026, -7507]$[48, 3374, -6026, -4228]$[6138, 3374, 64, -4228]$[6138, 6015, 64, -1587]$[6101, 6015, 27, -1587]$[6101, 7602, 27, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvAILOEemMTeS5NApSFg" id="(0.6000436676226507,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvAYLOEemMTeS5NApSFg" id="(0.33335811676427524,-1.7257963980510973E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3Zt4LOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-hILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3ZuYLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Zu4LOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZvYLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZvILOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3ZuoLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=SendEnquiry%5Bjcu%5Ename=SendEnquiry.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3ZuILOEemMTeS5NApSFg" points="[68, 95, -26198, -4337]$[68, 1258, -26198, -3174]$[26306, 1258, 40, -3174]$[26306, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvAoLOEemMTeS5NApSFg" id="(0.8667098257871596,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvA4LOEemMTeS5NApSFg" id="(0.5000857887994126,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3ZvoLOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-XILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3ZwILOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZwoLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZxILOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Zw4LOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3ZwYLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Item%5Bjcu%5Ename=Item.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3Zv4LOEemMTeS5NApSFg" points="[63, 95, -20252, -4337]$[63, 1787, -20252, -2645]$[20355, 1787, 40, -2645]$[20355, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvBILOEemMTeS5NApSFg" id="(0.8000432862460337,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvBYLOEemMTeS5NApSFg" id="(0.5000857887994126,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3ZxYLOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-SILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3Zx4LOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZyYLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Zy4LOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3ZyoLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3ZyILOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Enquiry%5Bjcu%5Ename=Enquiry.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3ZxoLOEemMTeS5NApSFg" points="[58, 95, -14306, -4337]$[58, 2316, -14306, -2116]$[14404, 2316, 40, -2116]$[14404, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvBoLOEemMTeS5NApSFg" id="(0.733376746704906,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvB4LOEemMTeS5NApSFg" id="(0.5000857887994126,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3ZzILOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-ZoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3ZzoLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z0ILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z0oLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z0YLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Zz4LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=BusinessPartner%5Bjcu%5Ename=BusinessPartner.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3ZzYLOEemMTeS5NApSFg" points="[74, 95, -28502, -7507]$[74, 729, -28502, -6873]$[28616, 729, 40, -6873]$[28616, 7602, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvCILOEemMTeS5NApSFg" id="(0.9333763653282889,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvCYLOEemMTeS5NApSFg" id="(0.5000857887994143,-1.7257963980510973E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3Z04LOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-IILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3Z1YLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z14LOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z2YLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z2ILOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Z1oLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Branch%5Bjcu%5Ename=Branch.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3Z1ILOEemMTeS5NApSFg" points="[53, 95, -8360, -4337]$[53, 2845, -8360, -1587]$[8453, 2845, 40, -1587]$[8453, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvCoLOEemMTeS5NApSFg" id="(0.6667102071637766,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvC4LOEemMTeS5NApSFg" id="(0.5000857887994126,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3Z2oLOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8e0OoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3Z3ILOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z3oLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z4ILOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z34LOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Z3YLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Login%5Bjcu%5Ename=Login.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3Z24LOEemMTeS5NApSFg" points="[42, 95, -3740, -4337]$[42, 3903, -3740, -529]$[3822, 3903, 40, -529]$[3822, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvDILOEemMTeS5NApSFg" id="(0.5333771280815213,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvDYLOEemMTeS5NApSFg" id="(0.5000857887994126,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3Z4YLOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-cILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3Z44LOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z5YLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z54LOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z5oLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Z5ILOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Rate%5Bjcu%5Ename=Rate.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3Z4oLOEemMTeS5NApSFg" points="[37, 95, 2206, -4337]$[37, 3903, 2206, -529]$[-2129, 3903, 40, -529]$[-2129, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXTvDoLOEemMTeS5NApSFg" id="(0.4667096350988528,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc48ILOEemMTeS5NApSFg" id="(0.5000857887994143,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3Z6ILOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8e0MILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3Z6oLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z7ILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z7oLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z7YLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Z64LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CustomerRegister%5Bjcu%5Ename=CustomerRegister.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3Z6YLOEemMTeS5NApSFg" points="[31, 95, -2501, -10677]$[31, 3374, -2501, -7398]$[-4439, 3374, -6971, -7398]$[-4439, 9185, -6971, -1587]$[2552, 9185, 20, -1587]$[2552, 10772, 20, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc48YLOEemMTeS5NApSFg" id="(0.40004309555772516,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc48oLOEemMTeS5NApSFg" id="(0.2502077995363592,-3.4515927961021945E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fF3Z74LOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-eoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fF3Z8YLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z84LOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z9YLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fF3Z9ILOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fF3Z8oLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fF3Z8ILOEemMTeS5NApSFg" points="[26, 95, -7484, -13847]$[26, 2845, -7484, -11097]$[-4700, 2845, -12210, -11097]$[-4700, 13413, -12210, -529]$[7524, 13413, 14, -529]$[7524, 13942, 14, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc484LOEemMTeS5NApSFg" id="(0.3333765560165957,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc49ILOEemMTeS5NApSFg" id="(0.1666914500976068,-3.4515927961021945E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBKsILOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-KoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBKsoLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKtILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKtoLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKtYLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBKs4LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Services%5Bjcu%5Ename=Services.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBKsYLOEemMTeS5NApSFg" points="[21, 95, 15199, -4337]$[21, 2316, 15199, -2116]$[-15138, 2316, 40, -2116]$[-15138, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc49YLOEemMTeS5NApSFg" id="(0.2667100164754699,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc49oLOEemMTeS5NApSFg" id="(0.5,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBKt4LOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-joLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBKuYLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKu4LOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKvYLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKvILOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBKuoLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=PackingMaterials%5Bjcu%5Ename=PackingMaterials.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBKuILOEemMTeS5NApSFg" points="[16, 95, 21145, -4337]$[16, 1787, 21145, -2645]$[-21089, 1787, 40, -2645]$[-21089, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc494LOEemMTeS5NApSFg" id="(0.20004347693434044,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4-ILOEemMTeS5NApSFg" id="(0.5,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBKvoLOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-NILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBKwILOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKwoLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKxILOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKw4LOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBKwYLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Shipment%5Bjcu%5Ename=Shipment.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBKv4LOEemMTeS5NApSFg" points="[11, 95, 27091, -4337]$[11, 1258, 27091, -3174]$[-27040, 1258, 40, -3174]$[-27040, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4-YLOEemMTeS5NApSFg" id="(0.13337693739321277,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4-oLOEemMTeS5NApSFg" id="(0.49999999999999956,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBKxYLOEemMTeS5NApSFg" source="_Vhjx4ILOEemMTeS5NApSFg" target="_e8n-UoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBKx4LOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKyYLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKy4LOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBKyoLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBKyILOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PackMoveAndGoDao%5Bjcu%5Ename=PackMoveAndGoDao.java%5Bjpack%5Ename=com.packmoveandgo.dao%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=MaterialUsed%5Bjcu%5Ename=MaterialUsed.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBKxoLOEemMTeS5NApSFg" points="[5, 95, 33037, -4337]$[5, 729, 33037, -3703]$[-32992, 729, 40, -3703]$[-32992, 4432, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4-4LOEemMTeS5NApSFg" id="(0.06671039785208689,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4_ILOEemMTeS5NApSFg" id="(0.5,0.0)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBKzILOEemMTeS5NApSFg" source="_e8e0MILOEemMTeS5NApSFg" target="_e8n-PoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBKzoLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK0ILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK0oLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK0YLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBKz4LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CustomerRegister%5Bjcu%5Ename=CustomerRegister.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Order%5Bjcu%5Ename=Order.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBKzYLOEemMTeS5NApSFg" points="[39, 0, -3301, 2316]$[39, -1587, -3301, 729]$[3367, -1587, 27, 729]$[3367, -2221, 27, 95]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4_YLOEemMTeS5NApSFg" id="(0.5002077995363574,-3.4515927961021945E-15)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4_oLOEemMTeS5NApSFg" id="(0.33335811676427524,0.9003795066413662)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBK04LOEemMTeS5NApSFg" source="_e8e0MILOEemMTeS5NApSFg" target="_e8n-eoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBK1YLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK14LOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK2YLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK2ILOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBK1oLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CustomerRegister%5Bjcu%5Ename=CustomerRegister.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBK1ILOEemMTeS5NApSFg" points="[52, 95, -4323, -2221]$[52, 729, -4323, -1587]$[4415, 729, 40, -1587]$[4415, 2316, 40, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc4_4LOEemMTeS5NApSFg" id="(0.6668744662030258,0.9003795066413645)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5AILOEemMTeS5NApSFg" id="(0.5000247834309419,-3.4515927961021945E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBK2oLOEemMTeS5NApSFg" source="_e8n-IILOEemMTeS5NApSFg" target="_e8n-eoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBK3ILOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK3oLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK4ILOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK34LOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBK3YLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Branch%5Bjcu%5Ename=Branch.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBK24LOEemMTeS5NApSFg" points="[53, 95, 955, -8561]$[53, 7069, 955, -1587]$[-849, 7069, 53, -1587]$[-849, 8656, 53, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5AYLOEemMTeS5NApSFg" id="(0.666752455466081,0.9003795066413645)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5AoLOEemMTeS5NApSFg" id="(0.6666914500976068,-3.4515927961021945E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBK4YLOEemMTeS5NApSFg" source="_e8n-IILOEemMTeS5NApSFg" target="_e8n-PoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBK44LOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK5YLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK54LOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK5oLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBK5ILOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Branch%5Bjcu%5Ename=Branch.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Order%5Bjcu%5Ename=Order.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBK4oLOEemMTeS5NApSFg" points="[26, 95, 624, -2221]$[26, 729, 624, -1587]$[-545, 729, 53, -1587]$[-545, 2316, 53, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5A4LOEemMTeS5NApSFg" id="(0.3334191221327459,0.9003795066413645)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5BILOEemMTeS5NApSFg" id="(0.6666914500976068,-1.7257963980510973E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBK6ILOEemMTeS5NApSFg" source="_e8n-PoLOEemMTeS5NApSFg" target="_e8e0MILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBK6oLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK7ILOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK7oLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK7YLOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBK64LOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Order%5Bjcu%5Ename=Order.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CustomerRegister%5Bjcu%5Ename=CustomerRegister.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBK6YLOEemMTeS5NApSFg" points="[53, 95, 3728, -2221]$[53, 1258, 3728, -1058]$[-3616, 1258, 59, -1058]$[-3616, 2316, 59, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5BYLOEemMTeS5NApSFg" id="(0.6666914500976068,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5BoLOEemMTeS5NApSFg" id="(0.7502077995363574,-3.4515927961021945E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBK74LOEemMTeS5NApSFg" source="_e8n-ZoLOEemMTeS5NApSFg" target="_e8n-eoLOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBK8YLOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK84LOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK9YLOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK9ILOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBK8oLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BusinessPartner%5Bjcu%5Ename=BusinessPartner.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBK8ILOEemMTeS5NApSFg" points="[40, 95, 20837, -5391]$[40, 4428, 20837, -1058]$[-20731, 4428, 66, -1058]$[-20731, 5486, 66, 0]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5B4LOEemMTeS5NApSFg" id="(0.5000857887994143,0.9003795066413662)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5CILOEemMTeS5NApSFg" id="(0.8333581167642753,-3.4515927961021945E-15)"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_fGBK9oLOEemMTeS5NApSFg" source="_e8n-eoLOEemMTeS5NApSFg" target="_e8e0MILOEemMTeS5NApSFg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_fGBK-ILOEemMTeS5NApSFg" type="KindLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK-oLOEemMTeS5NApSFg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK_ILOEemMTeS5NApSFg" type="Kind"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_fGBK-4LOEemMTeS5NApSFg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fGBK-YLOEemMTeS5NApSFg" y="-186"/>
+        </children>
+        <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Booking%5Bjcu%5Ename=Booking.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CustomerRegister%5Bjcu%5Ename=CustomerRegister.java%5Bjpack%5Ename=com.packmoveandgo.model%5Bjsrcroot%5Esrcfolder=src/main/java%5Bproject%5Eid=PackMoveAndGo%5D%5D%5D%5D%5D$uml.Usage"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_fGBK94LOEemMTeS5NApSFg" points="[27, 0, 5072, 2316]$[27, -1058, 5072, 1258]$[-5019, -1058, 26, 1258]$[-5019, -2221, 26, 95]"/>
+        <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5CYLOEemMTeS5NApSFg" id="(0.33335811676427346,-3.4515927961021945E-15)"/>
+        <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_fXc5CoLOEemMTeS5NApSFg" id="(0.33354113286969256,0.9003795066413645)"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <eAnnotations xmi:id="_CB0_6oLKEemMTeS5NApSFg" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_CB0_64LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBAbstractionRelation" value="1"/>
+    <details xmi:id="_CB0_7ILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBObjectDiagram" value="1"/>
+    <details xmi:id="_CB0_7YLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBClassTemplateParameter" value="1"/>
+    <details xmi:id="_CB0_7oLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStereotypedDeployment1" value="1"/>
+    <details xmi:id="_CB0_74LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTimingDiagram" value="1"/>
+    <details xmi:id="_CB0_8ILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBDeploymentSpecification" value="1"/>
+    <details xmi:id="_CB0_8YLKEemMTeS5NApSFg" key="com.ibm.xtools.http.activity.id" value="1"/>
+    <details xmi:id="_CB0_8oLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBRelationship2" value="1"/>
+    <details xmi:id="_CB0_84LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBRelationship1" value="1"/>
+    <details xmi:id="_CB0_9ILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBRelationship3" value="1"/>
+    <details xmi:id="_CB0_9YLKEemMTeS5NApSFg" key="com.ibm.xtools.rest.ui.uireduction.activity" value="1"/>
+    <details xmi:id="_CB0_9oLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBCollaborationUse" value="1"/>
+    <details xmi:id="_CB0_94LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInteractionOverview" value="1"/>
+    <details xmi:id="_CB0_-ILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBCollaboration" value="1"/>
+    <details xmi:id="_CB0_-YLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBElementImport2" value="1"/>
+    <details xmi:id="_CB0_-oLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInterface" value="1"/>
+    <details xmi:id="_CB0_-4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBAction" value="1"/>
+    <details xmi:id="_CB0__ILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBRealization" value="1"/>
+    <details xmi:id="_CB0__YLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBPackageTemplateParameter" value="1"/>
+    <details xmi:id="_CB0__oLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBCommunication" value="1"/>
+    <details xmi:id="_CB0__4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBPrimitiveTypeTemplateParameter" value="1"/>
+    <details xmi:id="_CB1AAILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInterfaceTemplateParameter" value="1"/>
+    <details xmi:id="_CB1AAYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSequenceDiagram" value="1"/>
+    <details xmi:id="_CB1AAoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBElementImport1" value="1"/>
+    <details xmi:id="_CB1AA4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBComponent" value="1"/>
+    <details xmi:id="_CB1ABILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStereotypedClass" value="1"/>
+    <details xmi:id="_CB1ABYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBArtifact" value="1"/>
+    <details xmi:id="_CB1ABoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStateMachine2" value="1"/>
+    <details xmi:id="_CB1AB4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStateMachine1" value="1"/>
+    <details xmi:id="_CB1ACILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTemplate" value="1"/>
+    <details xmi:id="_CB1ACYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBUsage" value="1"/>
+    <details xmi:id="_CB1ACoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBClass" value="1"/>
+    <details xmi:id="_CB1AC4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBCommunicationDiagram" value="1"/>
+    <details xmi:id="_CB1ADILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInteractionOverviewDiagram" value="1"/>
+    <details xmi:id="_CB1ADYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSubsystem" value="1"/>
+    <details xmi:id="_CB1ADoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStructureDiagram" value="1"/>
+    <details xmi:id="_CB1AD4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSequence2" value="1"/>
+    <details xmi:id="_CB1AEILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSequence1" value="1"/>
+    <details xmi:id="_CB1AEYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTypes1" value="1"/>
+    <details xmi:id="_CB1AEoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBConstraint" value="1"/>
+    <details xmi:id="_CB1AE4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBFragment" value="1"/>
+    <details xmi:id="_CB1AFILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSpecificInstanceType1" value="1"/>
+    <details xmi:id="_CB1AFYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSpecificInstanceType2" value="1"/>
+    <details xmi:id="_CB1AFoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStereotypedArtifact" value="1"/>
+    <details xmi:id="_CB1AF4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBProfile" value="1"/>
+    <details xmi:id="_CB1AGILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBUseCaseDiagram" value="1"/>
+    <details xmi:id="_CB1AGYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBSignal" value="1"/>
+    <details xmi:id="_CB1AGoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInstance" value="1"/>
+    <details xmi:id="_CB1AG4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBLifeLine" value="1"/>
+    <details xmi:id="_CB1AHILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBDependancy" value="1"/>
+    <details xmi:id="_CB1AHYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBPackage" value="1"/>
+    <details xmi:id="_CB1AHoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+    <details xmi:id="_CB1AH4LKEemMTeS5NApSFg" key="com.ibm.xtools.uml.profile.tooling.ui.editor.uireduction.activity" value="1"/>
+    <details xmi:id="_CB1AIILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBComponentTemplateParameter" value="1"/>
+    <details xmi:id="_CB1AIYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTypes4" value="1"/>
+    <details xmi:id="_CB1AIoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBActivityDiagram" value="1"/>
+    <details xmi:id="_CB1AI4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTypes2" value="1"/>
+    <details xmi:id="_CB1AJILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTypes3" value="1"/>
+    <details xmi:id="_CB1AJYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBFunctionTemplateParameter" value="1"/>
+    <details xmi:id="_CB1AJoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBDeployment1" value="1"/>
+    <details xmi:id="_CB1AJ4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBDeployment2" value="1"/>
+    <details xmi:id="_CB1AKILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBTiming" value="1"/>
+    <details xmi:id="_CB1AKYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBComment3" value="1"/>
+    <details xmi:id="_CB1AKoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBComment2" value="1"/>
+    <details xmi:id="_CB1AK4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBActivity1" value="1"/>
+    <details xmi:id="_CB1ALILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBFreeFormDiagram" value="1"/>
+    <details xmi:id="_CB1ALYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBComment1" value="1"/>
+    <details xmi:id="_CB1ALoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBProfileApplication" value="1"/>
+    <details xmi:id="_CB1AL4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBActivity3" value="1"/>
+    <details xmi:id="_CB1AMILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBFunction" value="1"/>
+    <details xmi:id="_CB1AMYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBActivity2" value="1"/>
+    <details xmi:id="_CB1AMoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBEvent2" value="1"/>
+    <details xmi:id="_CB1AM4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBActivity4" value="1"/>
+    <details xmi:id="_CB1ANILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBEvent1" value="1"/>
+    <details xmi:id="_CB1ANYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStereotypedComponent" value="1"/>
+    <details xmi:id="_CB1ANoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBStateChartDiagram" value="1"/>
+    <details xmi:id="_CB1AN4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInformationFlow" value="1"/>
+    <details xmi:id="_CB1AOILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBCompositeStructure2" value="1"/>
+    <details xmi:id="_CB1AOYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBInteraction" value="1"/>
+    <details xmi:id="_CB1AOoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBCompositeStructure1" value="1"/>
+    <details xmi:id="_CB1AO4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBComponentDiagram" value="1"/>
+    <details xmi:id="_CB1APILKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBClassDiagram" value="1"/>
+    <details xmi:id="_CB1APYLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBUseCase1" value="1"/>
+    <details xmi:id="_CB1APoLKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBDeploymentDiagram" value="1"/>
+    <details xmi:id="_CB1AP4LKEemMTeS5NApSFg" key="com.ibm.xtools.activities.umlBBUseCase2" value="1"/>
+  </eAnnotations>
+  <packageImport xmi:id="_CB1AQILKEemMTeS5NApSFg">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <profileApplication xmi:id="_CB1AQYLKEemMTeS5NApSFg">
+    <eAnnotations xmi:id="_CB1AQoLKEemMTeS5NApSFg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_CB1AQ4LKEemMTeS5NApSFg">
+    <eAnnotations xmi:id="_CB1ARILKEemMTeS5NApSFg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_CB1ARYLKEemMTeS5NApSFg">
+    <eAnnotations xmi:id="_CB1ARoLKEemMTeS5NApSFg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_4OVBUD0TEeKt-L0gyEptgQ?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>
